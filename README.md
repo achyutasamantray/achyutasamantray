@@ -1,3 +1,4 @@
+![logo](https://github.com/achyutasamantray/achyutasamantray/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Achyuta Samantaray</h1>
 <h3 align="center">Data Analyst</h3>
 
