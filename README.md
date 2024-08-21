@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am Looking FOR WORK**
 
-<img align="right" alt="coding" width="400" src=" https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif ">
+<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
